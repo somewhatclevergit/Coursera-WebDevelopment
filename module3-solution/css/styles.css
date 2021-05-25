@@ -1,0 +1,72 @@
+p.text-center {
+    font-size: 36px;
+}
+
+p.text-center.chicken {
+    font-size: 24px;
+}
+
+.navbar-default .navbar-toggle {
+    border-color: black;
+}
+
+.navbar-default .navbar-brand {
+    color: black;
+    font-size: 30px;
+    margin: 0px;
+}
+
+.navbar-default .menu-item {
+    text-align: center;
+}
+
+.navbar {
+    border: 1px solid black;
+    border-radius: 0px;
+    background-color: #aaaaaa;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: black;
+}
+
+.container-fluid>.navbar-header {
+    margin: 0px;
+}
+
+.navbar>.container-fluid .navbar-brand {
+    margin: 0px;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: black;
+}
+
+div.container-fluid#navbar {
+    padding: 0px;
+}
+
+#bs-example-navbar-collapse-1 {
+    margin: 0px;
+}
+
+.col-xs-12 {
+    background-color: #aaaaaa;
+    margin: 0px 15px 15px 0px;
+    color: black;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.row {
+    margin: 0px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+@media (max-width: 767px) {
+    .row {
+        margin-left: 60px;
+        margin-right: 60px;
+    }   
+}
