@@ -16,10 +16,6 @@ p.text-center.chicken {
     margin: 0px;
 }
 
-.navbar-default .menu-item {
-    text-align: center;
-}
-
 .navbar {
     border: 1px solid black;
     border-radius: 0px;
